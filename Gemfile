@@ -6,7 +6,7 @@ gem 'kramdown-parser-gfm'
 gem 'liquid-c'
 gem 'rouge', '~> 4.3'
 gem 'jekyll-vite'
-gem 'activesupport'
+gem 'activesupport', '>= 8.0.2.1'
 gem 'nokogiri'
 
 group :development do
