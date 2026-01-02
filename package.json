@@ -31,7 +31,7 @@
     "node-fetch": "^3.3.2",
     "uuid": "^11.1.0",
     "vue": "^3.4.38",
-    "vue-instantsearch": "^4.20.4"
+    "vue-instantsearch": "^4.22.8"
   },
   "overrides": {
     "vite": {
