@@ -29,7 +29,7 @@
     "algoliasearch": "^5.20.0",
     "axios": "^1.7.4",
     "instantsearch.css": "^8.5.1",
-    "mermaid": "^11.6.0",
+    "mermaid": "^11.15.0",
     "node-fetch": "^3.3.2",
     "shiki": "^4.0.2",
     "snowflake-sdk": "2.4.0",
